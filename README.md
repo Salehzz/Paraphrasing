@@ -5,7 +5,7 @@ A collection of papers and resources on Paraphrasing.
 ## Table of Contents<span id="table-of-contents"/>
 * [Paraphrasing](#head)
    * [Table of Contents](#table-of-contents)
-   * [Paraphrasing](#paraphrasing)
+   * [Paraphrasing Using LLMs](#paraphrasing)
      * [Papers](#paraphrasing-papers)
      * [Blogs](#paraphrasing-blogs)
      * [Datasets](#paraphrasing-datasets)
