@@ -22,12 +22,10 @@ A collection of papers and resources on Paraphrasing.
      * [Blogs](#text-fluency-blogs)
      * [Datasets](#text-fluency-datasets)
 
-## Paraphrasing <span id="paraphrasing"/>
+## Paraphrasing Using LLMs<span id="paraphrasing"/>
 ##### Papers <span id="paraphrasing-papers"/>
 * Can AI-Generated Text be Reliably Detected? [link](https://arxiv.org/abs/2303.11156)
 * PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization [link](https://arxiv.org/abs/1912.08777)
-* Attention Is All You Need [link](https://arxiv.org/abs/1706.03762)
-* BERTScore: Evaluating Text Generation with BERT [link](https://arxiv.org/abs/1904.09675)
 ##### Blogs <span id="paraphrasing-blogs"/>
 ##### Datasets <span id="paraphrasing-datasets"/>
 
@@ -41,6 +39,7 @@ A collection of papers and resources on Paraphrasing.
 ##### Papers <span id="text-generative-papers"/>
 * A Watermark for Large Language Models [link](https://arxiv.org/abs/2301.10226)
 * Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery [link](https://arxiv.org/abs/2302.03668)
+* Attention Is All You Need [link](https://arxiv.org/abs/1706.03762)
 ##### Blogs <span id="text-generative-blogs"/>
 ##### Datasets <span id="text-generative-datasets"/>
 
