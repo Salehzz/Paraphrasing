@@ -20,16 +20,16 @@ A collection of papers and resources on the Paraphrasing.
 
 ## Text Generative AI<span id="text-generative"/>
 ##### Papers <span id="text-generative-papers"/>
-A Watermark for Large Language Models [link](https://arxiv.org/abs/2301.10226)
-Can AI-Generated Text be Reliably Detected? [link](https://arxiv.org/abs/2303.11156)
-PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization [link](https://arxiv.org/abs/1912.08777)
-BERTScore: Evaluating Text Generation with BERT [link](https://arxiv.org/abs/1904.09675)
-Attention Is All You Need [link](https://arxiv.org/abs/1706.03762)
-Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery [link](https://arxiv.org/abs/2302.03668)
-AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [link](https://arxiv.org/abs/2010.15980)
-Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too? [link](https://arxiv.org/abs/2212.10539)
-Image Style Transfer Using Convolutional Neural Networks [link](https://ieeexplore.ieee.org/document/7780634)
-
+* A Watermark for Large Language Models [link](https://arxiv.org/abs/2301.10226)
+* Can AI-Generated Text be Reliably Detected? [link](https://arxiv.org/abs/2303.11156)
+* PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization [link](https://arxiv.org/abs/1912.08777)
+* BERTScore: Evaluating Text Generation with BERT [link](https://arxiv.org/abs/1904.09675)
+* Attention Is All You Need [link](https://arxiv.org/abs/1706.03762)
+* Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery [link](https://arxiv.org/abs/2302.03668)
+* AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [link](https://arxiv.org/abs/2010.15980)
+* Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too? [link](https://arxiv.org/abs/2212.10539)
+* Image Style Transfer Using Convolutional Neural Networks [link](https://ieeexplore.ieee.org/document/7780634)
+* 
 ##### Blogs <span id="text-generative-blogs"/>
 ##### Datasets <span id="text-generative-datasets"/>
 ## Image Generative AI<span id="image-generative"/>
