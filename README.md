@@ -5,7 +5,7 @@ A collection of papers and resources on Paraphrasing.
 ## Table of Contents<span id="table-of-contents"/>
 * [Paraphrasing](#head)
    * [Table of Contents](#table-of-contents)
-   * [Paraphrasing Using LLMs](#paraphrasing)
+   * [Paraphrasing Using LLMs](#paraphrasing1)
      * [Papers](#paraphrasing-papers)
      * [Blogs](#paraphrasing-blogs)
      * [Datasets](#paraphrasing-datasets)
@@ -22,7 +22,7 @@ A collection of papers and resources on Paraphrasing.
      * [Blogs](#text-fluency-blogs)
      * [Datasets](#text-fluency-datasets)
 
-## Paraphrasing Using LLMs<span id="paraphrasing"/>
+## Paraphrasing Using LLMs<span id="paraphrasing1"/>
 ##### Papers <span id="paraphrasing-papers"/>
 * Can AI-Generated Text be Reliably Detected? [link](https://arxiv.org/abs/2303.11156)
 * PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization [link](https://arxiv.org/abs/1912.08777)
