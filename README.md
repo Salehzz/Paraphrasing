@@ -44,15 +44,15 @@ A collection of papers and resources on Paraphrasing.
 ##### Blogs <span id="text-generative-blogs"/>
 ##### Datasets <span id="text-generative-datasets"/>
 
-## Image Generative AI<span id="image-generative"/>
-##### Papers <span id="image-generative-papers"/>
-* Image Style Transfer Using Convolutional Neural Networks [link](https://ieeexplore.ieee.org/document/7780634)
-##### Blogs <span id="image-generative-blogs"/>
-##### Datasets <span id="image-generative-datasets"/>
-
 ## Text Fluency AI<span id="text-fluency"/>
 ##### Papers <span id="text-fluency-papers"/>
 * AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts [link](https://arxiv.org/abs/2010.15980)
 * Toward Human Readable Prompt Tuning: Kubrick's The Shining is a good movie, and a good prompt too? [link](https://arxiv.org/abs/2212.10539)
 ##### Blogs <span id="text-fluency-blogs"/>
 ##### Datasets <span id="text-fluency-datasets"/>
+
+## Image Generative AI<span id="image-generative"/>
+##### Papers <span id="image-generative-papers"/>
+* Image Style Transfer Using Convolutional Neural Networks [link](https://ieeexplore.ieee.org/document/7780634)
+##### Blogs <span id="image-generative-blogs"/>
+##### Datasets <span id="image-generative-datasets"/>
