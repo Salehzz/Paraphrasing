@@ -1,25 +1,22 @@
 # Paraphrasing<span id="head"/>
 
-A collection of papers and resources on the Trustworthy Generative AI. For now, my main focus is on Multi-Modality Generative AI and more specifically attack generation for text to image. 
+A collection of papers and resources on the Paraphrasing.
 
 ## Table of Contents<span id="table-of-contents"/>
-* [Trustworthiness of Generative AI](#head)
+* [Paraphrasing](#head)
    * [Table of Contents](#table-of-contents)
    * [Text Generative AI](#text-generative)
      * [Papers](#text-generative-papers)
      * [Blogs](#text-generative-blogs)
      * [Datasets](#text-generative-datasets)
    * [Image Generative AI](#image-generative)
-   * [Multi-Modality Generative AI](#mlt-generative)
-     * [T2I Generative AI](#t2i-generative)
-       * [T2I Attacks](#t2i-generative-attacks)
-         * [Papers](#t2i-generative-attacks-papers)
-         * [Blogs](#t2i-generative-attacks-blogs)
-         * [Datasets](#t2i-generative-attacks-datasets)
-     * [I2T Generative AI](#i2t-generative)
-       * [Papers](#i2t-generative-papers)
-       * [Blogs](#i2t-generative-blogs)
-       * [Datasets](#i2t-generative-datasets)
+     * [Papers](#text-generative-papers)
+     * [Blogs](#text-generative-blogs)
+     * [Datasets](#text-generative-datasets)
+   * [Text Fluency AI](#text-generative)
+     * [Papers](#text-generative-papers)
+     * [Blogs](#text-generative-blogs)
+     * [Datasets](#text-generative-datasets)
 
 ## Text Generative AI<span id="text-generative"/>
 ##### Papers <span id="text-generative-papers"/>
