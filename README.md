@@ -38,6 +38,7 @@ A collection of papers and resources on Paraphrasing.
 ## Text Generative AI<span id="text-generative"/>
 ##### Papers <span id="text-generative-papers"/>
 * A Watermark for Large Language Models [link](https://arxiv.org/abs/2301.10226)
+* On the Reliability of Watermarks for Large Language Models [link](https://arxiv.org/abs/2306.04634)
 * Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery [link](https://arxiv.org/abs/2302.03668)
 * Attention Is All You Need [link](https://arxiv.org/abs/1706.03762)
 ##### Blogs <span id="text-generative-blogs"/>
